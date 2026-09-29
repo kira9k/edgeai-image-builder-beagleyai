@@ -1,0 +1,1 @@
+docker build -t ti-ubuntu22 docker/
